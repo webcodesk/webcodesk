@@ -629,7 +629,7 @@ export default [
 
 Во избежание возможных проблем с проксированием в Webcodesk, рекомендуется настроить прокси вручную с помощью `http-proxy-middleware`. 
 
-Для этого следуйте инструкциям, которые описаны здесь: (Configuring the Proxy Manually)[https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development#configuring-the-proxy-manually]
+Для этого следуйте инструкциям, которые описаны здесь: [Configuring the Proxy Manually](https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development#configuring-the-proxy-manually)
 
 * Установите `http-proxy-middleware` -> `yarn add http-proxy-middleware`
 * Создайте файл `setupProxy.js` в каталоге `src`
