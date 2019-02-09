@@ -621,7 +621,29 @@ export default [
 
 Если вы вносили какие-то изменения в исходный проект после экспорта, вы всегда сможете снова сделать экспорт кода в тот же каталог.
 
-## Возможные проблемы
+## Проксирование запросов
+
+Несмотря на то, что проксирование запросов в Webpack осуществляется добавлением строки `"proxy": "neddedhost.com"` в `package.json` файл, при работе с Webcodesk это может вызвать некоторые проблемы с разделением запросов.
+
+Дело в том, что Webcodesk встраивает в приложение еще пару сервисных путей, которые могут помешать HTTP запросам идущим на прокси.
+
+Во избежание возможных проблем с проксированием в Webcodesk, рекомендуется настроить прокси вручную с помощью `http-proxy-middleware`. 
+
+Для этого следуйте инструкциям, которые описаны здесь: (Configuring the Proxy Manually)[https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development#configuring-the-proxy-manually]
+
+* Установите `http-proxy-middleware` -> `yarn add http-proxy-middleware`
+* Создайте файл `setupProxy.js` в каталоге `src`
+* Добавьте в него настройки вашего прокси:
+
+```javascript
+const proxy = require('http-proxy-middleware');
+
+module.exports = function(app) {
+  app.use(proxy('/api', { target: 'http://localhost:5000/' }));
+};
+```
+  
+## Устранение возможных проблем
 
 #### Пустая страница
 
