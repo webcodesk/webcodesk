@@ -614,7 +614,7 @@ Webcodesk installs the framework as an npm-module in the application. When the a
 
 Despite that fact that the framework works just like a code written by the developer for Redux, it does not allow to use modern approaches as the lazy loading and code splitting.
 
-As far as Webcodesk uses the React App Framework, and has more than 60 flows inside, you undoubtedly can use the framework in your application in production.
+As far as Webcodesk uses the React App Framework too, and has more than 60 flows inside, you undoubtedly can use the framework in your application in production.
 
 However, if you want to have the optimized source code with lazy loading and code splitting, Webcodesk can generate the application source code without using the framework routines.
 
