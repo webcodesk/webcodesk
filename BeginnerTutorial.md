@@ -156,7 +156,7 @@ If you open the `Live Preview` tab again, you will see that the title, above the
 
 <img src="./img/pic16.png?raw=true" />
 
-It means that when the application starts the `title` property of the `titlePanel` instance received a value from the `title` event of the `initialTitle` function. Exactly that logic we draw that on the diagram.
+It means that when the application starts the `title` property of the `titlePanel` instance received a value from the `title` event of the `initialTitle` function. Exactly that logic we draw on the diagram.
 
 ### The second diagram
 
