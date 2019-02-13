@@ -2,7 +2,7 @@
 
 Welcome to Webcodesk!
 
-This tutorial assumes that you already have some experience with React and know how to create web application utilizing Create React App.
+This tutorial assumes that you already have some experience with React and know how to create web applications utilizing Create React App.
 
 [Russian version of the tutorial](./BeginnerTutorial_RU.md)
 
@@ -42,7 +42,7 @@ You will see the form with two inputs. Type the project name in the first input,
 
 After clicking the `Create` button you will see a console output of the project's creating process. These lines fully correspond to the output you see when creating the project with Create React App.
 
-When the process of copying and modules installing is over, the newly created project will open on the screen. 
+When the process of copying and installing is over, the newly created project will open on the screen. 
 
 <img src="./img/pic3.png?raw=true" />
 
@@ -62,7 +62,7 @@ Now we will use those components in the simplest Single Page application.
 
 ### Main page
 
-Firstly we need to create the main page of the application. There is already an empty page with the name `main` in the `Pages` section on the left panel.
+Firstly we need to create the main page of the application. There is already an empty page with the `main` name in the `Pages` section on the left panel.
 
 > **Hint**: if you do not see such a name in the left panel, you should create a new page by clicking on the icon with the plus sign and then enter "main" as the page name.
 
