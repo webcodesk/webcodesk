@@ -1,4 +1,4 @@
-## How to build Web app with Firebase application in Webcodesk
+## How to build Web app with Firebase authentication in Webcodesk
 
 Assuming you already have Webcodesk installed on your local machine and went through the beginner tutorial.
 
