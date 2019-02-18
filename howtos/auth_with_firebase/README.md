@@ -1,6 +1,6 @@
 ## How to build a Web app with Firebase authentication in Webcodesk
 
-Assuming you already have Webcodesk installed on your local machine and went through the beginner tutorial.
+Assuming you already have [Webcodesk](https://webcodesk.com) installed on your local machine and went through the [beginner tutorial](https://github.com/webcodesk/webcodesk/blob/master/BeginnerTutorial.md).
 
 In this lesson, we implement the authentication in Firebase utilizing Webcodesk features.
 
