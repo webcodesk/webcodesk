@@ -43,7 +43,7 @@
 
 ## Contribution
 
-If you like the idea of Webcodesk, please share the information about Webcodesk in social networks.
+If you like the idea of Webcodesk, please share the information about Webcodesk in social networks, and vote on [ProductHunt](https://www.producthunt.com/posts/webcodesk).
 
 **If you didn't find needed React component on [the market](https://webcodesk.com/app)**, add an issue with the detailed explanation and requirements - 
 it is highly possible that the new component will be published after a short time.
