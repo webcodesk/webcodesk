@@ -1,9 +1,61 @@
-# Webcodesk - a rapid development tool for React Web Applications
 
-Welcome to Webcodesk!
+<p style="text-align: center">
+<img style="min-width: 550px; width: 40%;" src="logo_color_150x150.png" />
+</p>
+<p style="text-align: center">
+Webcodesk - a rapid development tool for React Web applications
+</p>
 
-Read documentation here: [Webcodesk Documentation](https://webcodesk.com/documentation)
+Find here the curated list of links related to Webcodesk. 
+  
+## Features
 
-Download Webcodesk application here: [Webcodesk Site](https://webcodesk.com) 
+* Developing with the [low-code](https://www.mendix.com/low-code-guide/) approach.
+* Sharing React components between projects.
+* Using [Create React App](https://facebook.github.io/create-react-app/) for application building.
+* Compatibility with any IDE or text editor.
+* Cross platform desktop application.
 
+## Guides
+
+* [Webcodesk documentation](https://webcodesk.com/documentation)
+* [Videos](https://webcodesk.com/videos)
+
+## Source code
+
+* [Webcodesk application](https://github.com/webcodesk/webcodesk-app)
+> Find the source code of the desktop application here
+* [React App Framework](https://github.com/webcodesk/react-app-framework)
+> A rapid Single Page Web application building framework
+* [Create React App for Webckodesk](https://github.com/webcodesk/create-react-app)
+> Fork of the Create React App tool
+
+## Extra resources
+
+* [Free Market for React components](https://webcodesk.com/app)
+* [Spectrum chat](https://spectrum.chat/webcodesk)
+* [Twitter account](https://twitter.com/webcodesk)
+* [Facebook group](https://www.facebook.com/groups/webcodesk)
+* [Youtube channel](https://www.youtube.com/channel/UCmesT7ti6DXOjxDwx2qzKgQ)
+
+## Contribution
+
+If you like the idea of Webcodesk, please share the information about Webcodesk in social networks.
+
+Feel free to add links and issues regarding Webcodesk resources, materials or guides.
+
+If you **didn't find** needed React component on [the market](https://webcodesk.com/app), **add an issue** with the detailed explanation and requirements - 
+it is highly possible that the new component will be published after a short time.
+
+**Webcodesk lacks a good documentation**. If you are willing to help with writing guides or recording video tutorials for Webcodesk, 
+please feel free to contact the author:
+* In Twitter: [@alex_pustovalov](https://twitter.com/alex_pustovalov)
+* In Spectrum chat: [@alex-pustovalov](https://spectrum.chat/users/alex-pustovalov)
+
+## License
+
+MIT License
+
+Copyright (c) 2019 [Oleksandr (Alex) Pustovalov](https://github.com/ipselon)
+ 
 
