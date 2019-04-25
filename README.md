@@ -1,6 +1,6 @@
 
 <p align="center">
-<img style="width: 80%;" src="card_logo_960x560.jpg" />
+<img width="80%" src="card_logo_960x560.jpg" />
 </p>
 <h3 align="center">
   <stong>A rapid development tool for React Web applications</strong>
@@ -27,9 +27,9 @@
 ## Source code
 
 * [Webcodesk application](https://github.com/webcodesk/webcodesk-app)
-> Find the source code of the desktop application here
+> The source code of the desktop application
 * [React App Framework](https://github.com/webcodesk/react-app-framework)
-> The source code of the framework for rapid Single Page Web application building
+> The source code of the framework for Single Page Web application
 * [Create React App for Webckodesk](https://github.com/webcodesk/create-react-app)
 > Fork of the Create React App tool
 
