@@ -45,17 +45,6 @@
 
 If you like the idea of Webcodesk, please share the information about Webcodesk in social networks.
 
-<a class="icon-twitter" rel="nofollow"
-	href="http://twitter.com/"
-	onclick="popUp=window.open(
-		'http://twitter.com/intent/tweet?text=\'[Page Title]\' via @[handle] - [url]',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on twitter</i>
-</a>
-
 **If you didn't find needed React component on [the market](https://webcodesk.com/app)**, add an issue with the detailed explanation and requirements - 
 it is highly possible that the new component will be published after a short time.
 
