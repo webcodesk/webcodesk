@@ -1,6 +1,6 @@
 
 <p align="center">
-<img style="width: 100%;" src="card_logo_960x560.jpg" />
+<img style="width: 80%;" src="card_logo_960x560.jpg" />
 </p>
 <h3 align="center">
   <stong>A rapid development tool for React Web applications</strong>
