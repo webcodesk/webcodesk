@@ -1,6 +1,6 @@
 
 <p align="center">
-<img style="min-width: 150px; width: 40%;" src="logo_color_150x150.png" />
+<img style="min-width: 150px; width: 50%;" src="logo_color_150x150.png" />
 </p>
 <h1 align="center">
   <stong>Webcodesk</strong>
@@ -22,6 +22,10 @@
 
 * [Webcodesk documentation](https://webcodesk.com/documentation)
 * [Videos](https://webcodesk.com/videos)
+
+## Download binaries
+
+* [Webcodesk site](https://webcodesk.com)
 
 ## Source code
 
@@ -54,7 +58,7 @@ please feel free to contact the author:
 * In Twitter: [@alex_pustovalov](https://twitter.com/alex_pustovalov)
 * In Spectrum chat: [@alex-pustovalov](https://spectrum.chat/users/alex-pustovalov)
 
-Feel free to add here links and issues regarding Webcodesk resources, materials or guides.
+Also, feel free to add here links and issues regarding Webcodesk resources, materials or guides.
 
 ## License
 
