@@ -1,10 +1,7 @@
 
 <p align="center">
-<img style="min-width: 150px; width: 50%;" src="logo_color_150x150.png" />
+<img style="width: 100%;" src="card_logo_960x560.jpg" />
 </p>
-<h1 align="center">
-  <stong>Webcodesk</strong>
-</h1>
 <h3 align="center">
   <stong>A rapid development tool for React Web applications</strong>
 </h3>
