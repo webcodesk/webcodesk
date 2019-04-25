@@ -1,13 +1,15 @@
 
-<p style="text-align: center">
-<img style="min-width: 550px; width: 40%;" src="logo_color_150x150.png" />
+<p align="center">
+<img style="min-width: 150px; width: 40%;" src="logo_color_150x150.png" />
 </p>
-<p style="text-align: center">
-Webcodesk - a rapid development tool for React Web applications
-</p>
+<h1 align="center">
+  <stong>Webcodesk</strong>
+</h1>
+<h3 align="center">
+  <stong>A rapid development tool for React Web applications</strong>
+</h3>
 
-Find here the curated list of links related to Webcodesk. 
-  
+
 ## Features
 
 * Developing with the [low-code](https://www.mendix.com/low-code-guide/) approach.
@@ -42,15 +44,17 @@ Find here the curated list of links related to Webcodesk.
 
 If you like the idea of Webcodesk, please share the information about Webcodesk in social networks.
 
-Feel free to add links and issues regarding Webcodesk resources, materials or guides.
-
-If you **didn't find** needed React component on [the market](https://webcodesk.com/app), **add an issue** with the detailed explanation and requirements - 
+**If you didn't find needed React component on [the market](https://webcodesk.com/app)**, add an issue with the detailed explanation and requirements - 
 it is highly possible that the new component will be published after a short time.
 
-**Webcodesk lacks a good documentation**. If you are willing to help with writing guides or recording video tutorials for Webcodesk, 
+**Webcodesk lacks a good documentation**. 
+
+If you are willing to help with writing guides or recording video tutorials for Webcodesk, 
 please feel free to contact the author:
 * In Twitter: [@alex_pustovalov](https://twitter.com/alex_pustovalov)
 * In Spectrum chat: [@alex-pustovalov](https://spectrum.chat/users/alex-pustovalov)
+
+Feel free to add here links and issues regarding Webcodesk resources, materials or guides.
 
 ## License
 
