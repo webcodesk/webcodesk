@@ -32,7 +32,7 @@
 * [Webcodesk application](https://github.com/webcodesk/webcodesk-app)
 > Find the source code of the desktop application here
 * [React App Framework](https://github.com/webcodesk/react-app-framework)
-> A rapid Single Page Web application building framework
+> The source code of the framework for rapid Single Page Web application building
 * [Create React App for Webckodesk](https://github.com/webcodesk/create-react-app)
 > Fork of the Create React App tool
 
