@@ -10,7 +10,6 @@
 ## Features
 
 * Developing with the [low-code](https://www.mendix.com/low-code-guide/) approach.
-* Sharing React components between projects.
 * Using [Create React App](https://facebook.github.io/create-react-app/) for application building.
 * Compatibility with any IDE or text editor.
 * Cross platform desktop application.
@@ -35,7 +34,6 @@
 
 ## Extra resources
 
-* [Free Market for React components](https://webcodesk.com/app)
 * [Spectrum chat](https://spectrum.chat/webcodesk)
 * [Twitter account](https://twitter.com/webcodesk)
 * [Facebook group](https://www.facebook.com/groups/webcodesk)
@@ -44,9 +42,6 @@
 ## Contribution
 
 If you like the idea of Webcodesk, please share the information about Webcodesk in social networks, and vote on [ProductHunt](https://www.producthunt.com/posts/webcodesk).
-
-**If you didn't find needed React component on [the market](https://webcodesk.com/app)**, add an issue with the detailed explanation and requirements - 
-it is highly possible that the new component will be published after a short time.
 
 **Webcodesk lacks a good documentation**. 
 
