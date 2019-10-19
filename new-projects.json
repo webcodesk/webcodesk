@@ -4,6 +4,7 @@
     {
       "projectName": "Probe First Seed project",
       "projectDescription": "The first probe project",
+      "lang": "javascript",
       "keywords": ["MUI", "Probe"],
       "author": {
         "fullName": "Alex Pustovalov",
@@ -20,6 +21,7 @@
       "projectName": "Probe First Seed project",
       "projectDescription": "The first probe project",
       "keywords": ["MUI", "Probe"],
+      "lang": "javascript",
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
@@ -35,6 +37,7 @@
       "projectName": "Probe First Seed project",
       "projectDescription": "The first probe project",
       "keywords": ["MUI", "Probe"],
+      "lang": "typescript",
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
