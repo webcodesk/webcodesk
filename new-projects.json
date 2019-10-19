@@ -1,0 +1,50 @@
+{
+  "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
+  "projectList": [
+    {
+      "projectName": "Probe First Seed project",
+      "projectDescription": "The first probe project",
+      "keywords": ["MUI", "Probe"],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectReleases": [
+        {
+          "releaseDownloadURL": "",
+          "releaseLabel": ""
+        }
+      ]
+    },
+    {
+      "projectName": "Probe First Seed project",
+      "projectDescription": "The first probe project",
+      "keywords": ["MUI", "Probe"],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectReleases": [
+        {
+          "releaseDownloadURL": "",
+          "releaseLabel": ""
+        }
+      ]
+    },
+    {
+      "projectName": "Probe First Seed project",
+      "projectDescription": "The first probe project",
+      "keywords": ["MUI", "Probe"],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectReleases": [
+        {
+          "releaseDownloadURL": "",
+          "releaseLabel": ""
+        }
+      ]
+    }
+  ]
+}
