@@ -2,45 +2,17 @@
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
     {
-      "projectName": "Probe First Seed project",
+      "projectName": "Empty Boilerplate Project",
       "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.",
       "lang": "javascript",
-      "keywords": ["MUI", "Probe"],
+      "keywords": ["Probe"],
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
       },
-      "projectRepository": "webcodesk/webcodesk",
+      "projectRepository": "webcodesk/wcd-boilerplate-empty-project",
       "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
-      "license": "MIT"
-    },
-    {
-      "projectName": "Probe Second Seed project",
-      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.",
-      "keywords": ["MUI", "Probe", "Second Tag Label"],
-      "lang": "javascript",
-      "author": {
-        "fullName": "Alex Pustovalov",
-        "profileURL": ""
-      },
-      "projectRepository": "webcodesk/webcodesk",
-      "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
-      "license": "MIT"
-    },
-    {
-      "projectName": "Probe Third Seed project with TypeScript",
-      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.",
-      "keywords": ["MUI", "Probe", "TypeScript"],
-      "lang": "typescript",
-      "author": {
-        "fullName": "Alex Pustovalov",
-        "profileURL": ""
-      },
-      "projectRepository": "webcodesk/webcodesk",
-      "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-boilerplate-empty-project/archive/v0.1.0.tar.gz",
       "license": "MIT"
     }
   ]
