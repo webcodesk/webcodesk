@@ -12,12 +12,7 @@
       },
       "projectRepository": "webcodesk/webcodesk",
       "projectDemoURL": "",
-      "projectReleases": [
-        {
-          "releaseDownloadURL": "",
-          "releaseLabel": ""
-        }
-      ],
+      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
       "license": "MIT"
     },
     {
@@ -31,12 +26,7 @@
       },
       "projectRepository": "webcodesk/webcodesk",
       "projectDemoURL": "",
-      "projectReleases": [
-        {
-          "releaseDownloadURL": "",
-          "releaseLabel": ""
-        }
-      ],
+      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
       "license": "MIT"
     },
     {
@@ -50,12 +40,7 @@
       },
       "projectRepository": "webcodesk/webcodesk",
       "projectDemoURL": "",
-      "projectReleases": [
-        {
-          "releaseDownloadURL": "",
-          "releaseLabel": ""
-        }
-      ],
+      "projectReleaseDownloadURL": "https://github.com/ipselon/prime_faces_react_todo_sample/archive/v1.0.0.tar.gz",
       "license": "MIT"
     }
   ]
