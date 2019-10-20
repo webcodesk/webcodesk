@@ -11,12 +11,14 @@
         "profileURL": ""
       },
       "projectRepository": "webcodesk/webcodesk",
+      "projectDemoURL": "",
       "projectReleases": [
         {
           "releaseDownloadURL": "",
           "releaseLabel": ""
         }
-      ]
+      ],
+      "license": "MIT"
     },
     {
       "projectName": "Probe First Seed project",
@@ -28,12 +30,14 @@
         "profileURL": ""
       },
       "projectRepository": "webcodesk/webcodesk",
+      "projectDemoURL": "",
       "projectReleases": [
         {
           "releaseDownloadURL": "",
           "releaseLabel": ""
         }
-      ]
+      ],
+      "license": "MIT"
     },
     {
       "projectName": "Probe First Seed project",
@@ -45,12 +49,14 @@
         "profileURL": ""
       },
       "projectRepository": "webcodesk/webcodesk",
+      "projectDemoURL": "",
       "projectReleases": [
         {
           "releaseDownloadURL": "",
           "releaseLabel": ""
         }
-      ]
+      ],
+      "license": "MIT"
     }
   ]
 }
