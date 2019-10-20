@@ -21,9 +21,9 @@
       "license": "MIT"
     },
     {
-      "projectName": "Probe First Seed project",
+      "projectName": "Probe Second Seed project",
       "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.",
-      "keywords": ["MUI", "Probe"],
+      "keywords": ["MUI", "Probe", "Second Tag Label"],
       "lang": "javascript",
       "author": {
         "fullName": "Alex Pustovalov",
@@ -40,9 +40,9 @@
       "license": "MIT"
     },
     {
-      "projectName": "Probe First Seed project",
+      "projectName": "Probe Third Seed project with TypeScript",
       "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.",
-      "keywords": ["MUI", "Probe"],
+      "keywords": ["MUI", "Probe", "TypeScript"],
       "lang": "typescript",
       "author": {
         "fullName": "Alex Pustovalov",
