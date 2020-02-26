@@ -1,11 +1,25 @@
 {
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
+     {
+      "projectName": "Starter project for PWA (v1.0.0)",
+      "projectDescription": "Use this project as a starting point of the Web application (PWA).",
+      "lang": "javascript",
+      "keywords": ["empty", "starter"],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectRepository": "webcodesk/wcd-empty-pwa",
+      "projectDemoURL": "",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.0.tar.gz",
+      "license": "MIT"
+    },
     {
       "projectName": "Beginner tutorial (v1.0.2)",
       "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
-      "keywords": ["tutorial", "starter"],
+      "keywords": ["tutorial", "starter", "Material UI"],
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
