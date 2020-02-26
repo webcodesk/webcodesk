@@ -3,34 +3,19 @@
 <img width="80%" src="card_logo_960x560.jpg" />
 </p>
 <h3 align="center">
-  <stong>A rapid development tool for React Web applications</strong>
+  <stong>A Web Application Builder</strong>
 </h3>
 
+## Marketplace
 
-## Features
+This repository stores two files for the Webcodesk marketplace.
 
-* Developing with the [low-code](https://www.mendix.com/low-code-guide/) approach.
-* Using [Create React App](https://facebook.github.io/create-react-app/) for application building.
-* Compatibility with any IDE or text editor.
-* Cross platform desktop application.
+* List of projects to start a new project: [new-projects](new-projects.json)
+* A list of projects with components that can be added to an existing project: [new-packages](new-packages.json)
 
-## Guides
+## Contribution
 
-* [Webcodesk documentation](https://webcodesk.com/documentation)
-* [Videos](https://webcodesk.com/videos)
-
-## Download binaries
-
-* [Webcodesk site](https://webcodesk.com)
-
-## Source code
-
-* [Webcodesk application](https://github.com/webcodesk/webcodesk-app)
-> The source code of the desktop application
-* [React App Framework](https://github.com/webcodesk/react-app-framework)
-> The source code of the framework for Single Page Web application
-* [Create React App for Webckodesk](https://github.com/webcodesk/create-react-app)
-> Fork of the Create React App tool
+If you want your project to be in one of the lists, make a new PR for any of the files.
 
 ## Extra resources
 
@@ -39,23 +24,5 @@
 * [Facebook group](https://www.facebook.com/groups/webcodesk)
 * [Youtube channel](https://www.youtube.com/channel/UCmesT7ti6DXOjxDwx2qzKgQ)
 
-## Contribution
-
-If you like the idea of Webcodesk, please share the information about Webcodesk in social networks, and vote on [ProductHunt](https://www.producthunt.com/posts/webcodesk).
-
-**Webcodesk lacks a good documentation**. 
-
-If you are willing to help with writing guides or recording video tutorials for Webcodesk, 
-please feel free to contact the author:
-* In Twitter: [@alex_pustovalov](https://twitter.com/alex_pustovalov)
-* In Spectrum chat: [@alex-pustovalov](https://spectrum.chat/users/alex-pustovalov)
-
-Also, feel free to add here links and issues regarding Webcodesk resources, materials or guides.
-
-## License
-
-MIT License
-
-Copyright (c) 2019 [Oleksandr (Alex) Pustovalov](https://github.com/ipselon)
  
 
