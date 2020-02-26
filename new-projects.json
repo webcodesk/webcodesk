@@ -2,17 +2,17 @@
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
     {
-      "projectName": "Empty Boilerplate Project (v0.1.7)",
-      "projectDescription": "The starter empty project for the Webcodesk server",
+      "projectName": "Beginner tutorial (v1.0.0)",
+      "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
-      "keywords": ["empty", "starter"],
+      "keywords": ["tutorial", "starter"],
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
       },
-      "projectRepository": "webcodesk/wcd-boilerplate-empty-project",
+      "projectRepository": "webcodesk/wcd-todo-tutorial",
       "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-boilerplate-empty-project/archive/v0.1.7.tar.gz",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-todo-tutorial/archive/v1.0.0.tar.gz",
       "license": "MIT"
     }
   ]
