@@ -2,7 +2,7 @@
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
     {
-      "projectName": "Empty Boilerplate Project (v0.1.2)",
+      "projectName": "Empty Boilerplate Project (v0.1.7)",
       "projectDescription": "The starter empty project for the Webcodesk server",
       "lang": "javascript",
       "keywords": ["empty", "starter"],
@@ -12,7 +12,7 @@
       },
       "projectRepository": "webcodesk/wcd-boilerplate-empty-project",
       "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-boilerplate-empty-project/archive/v0.1.2.tar.gz",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-boilerplate-empty-project/archive/v0.1.7.tar.gz",
       "license": "MIT"
     }
   ]
