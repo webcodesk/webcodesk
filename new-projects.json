@@ -2,7 +2,7 @@
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
     {
-      "projectName": "Beginner tutorial (v1.0.1)",
+      "projectName": "Beginner tutorial (v1.0.2)",
       "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
       "keywords": ["tutorial", "starter"],
@@ -12,7 +12,7 @@
       },
       "projectRepository": "webcodesk/wcd-todo-tutorial",
       "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-todo-tutorial/archive/v1.0.1.tar.gz",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-todo-tutorial/archive/v1.0.2.tar.gz",
       "license": "MIT"
     }
   ]
