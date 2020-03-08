@@ -1,11 +1,14 @@
 {
   "description": "This file is the entry point for Webcodesk Desktop when you create a new project.",
   "projectList": [
-     {
+    {
       "projectName": "Starter project for PWA (v1.0.1)",
       "projectDescription": "Use this project as a starting point of the Web application (PWA).",
       "lang": "javascript",
-      "keywords": ["empty", "starter"],
+      "keywords": [
+        "empty",
+        "starter"
+      ],
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
@@ -19,7 +22,11 @@
       "projectName": "Beginner tutorial (v1.0.3)",
       "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
-      "keywords": ["tutorial", "starter", "Material UI"],
+      "keywords": [
+        "tutorial",
+        "starter",
+        "Material UI"
+      ],
       "author": {
         "fullName": "Alex Pustovalov",
         "profileURL": ""
