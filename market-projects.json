@@ -3,6 +3,7 @@
   "projectList": [
     {
       "projectName": "Beginner tutorial (v1.0.3)",
+      "projectThumbnailScreenshotUrl": "https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial/master/thumbnailImage.png",
       "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
       "keywords": [
@@ -16,7 +17,6 @@
       },
       "projectRepository": "webcodesk/wcd-todo-tutorial",
       "projectDemoURL": "",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-todo-tutorial/archive/v1.0.3.tar.gz",
       "license": "MIT",
       "projectZipDownloadUrl": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip",
       "projectScreenshotsUrls": [
