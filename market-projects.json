@@ -16,7 +16,7 @@
         "profileURL": ""
       },
       "projectRepository": "webcodesk/wcd-todo-tutorial",
-      "projectDemoURL": "",
+      "projectDemoURL": "https://ide.webcodesk.com/?appDemo=https://wcd-todo-tutorial-demo.web.app/",
       "license": "MIT",
       "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip"
     },
