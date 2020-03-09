@@ -18,10 +18,7 @@
       "projectRepository": "webcodesk/wcd-todo-tutorial",
       "projectDemoURL": "",
       "license": "MIT",
-      "projectZipDownloadUrl": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip",
-      "projectScreenshotsUrls": [
-        ""
-      ]
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip"
     },
     {
       "projectName": "Beginner tutorial (v1.0.3)",
@@ -40,10 +37,8 @@
       "projectRepository": "webcodesk/wcd-todo-tutorial",
       "projectDemoURL": "",
       "license": "MIT",
-      "projectZipDownloadUrl": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip",
-      "projectScreenshotsUrls": [
-        ""
-      ]
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip"
+
     }
   ]
 }
