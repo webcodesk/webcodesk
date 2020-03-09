@@ -2,9 +2,9 @@
   "description": "This file is the entry point for the Webcodesk project templates",
   "projectList": [
     {
-      "projectName": "Beginner tutorial (v1.0.3)",
-      "projectThumbnailScreenshotUrl": "https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial/master/thumbnailImage.png",
-      "projectDescription": "A simple ToDo application tutorial for Webcodesk",
+      "projectName": "ToDo Web Application",
+      "projectThumbnailScreenshotUrl": "https://raw.githubusercontent.com/webcodesk/wcd-todo/master/thumbnailImage.png",
+      "projectDescription": "Template of the ToDo application for Webcodesk. The source code includes 11 Material-UI components.",
       "lang": "javascript",
       "keywords": [
         "tutorial",
@@ -15,30 +15,10 @@
         "fullName": "Alex Pustovalov",
         "profileURL": ""
       },
-      "projectRepository": "webcodesk/wcd-todo-tutorial",
-      "projectDemoURL": "https://ide.webcodesk.com/?appDemo=https://wcd-todo-tutorial-demo.web.app/",
+      "projectRepository": "webcodesk/wcd-todo",
+      "projectDemoURL": "https://ide.webcodesk.com/?appDemo=https://wcd-todo-demo.web.app/",
       "license": "MIT",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip"
-    },
-    {
-      "projectName": "Beginner tutorial (v1.0.3)",
-      "projectThumbnailScreenshotUrl": "https://cdn.slidesharecdn.com/ss_thumbnails/jghjkh-jghjk-jkghjh-gjhgjh-g-jh-gj-hg-jhg-jhgjhg-jhg-jhg-jhg-jhg-jhg-jhg-jh-gjhg-jh-gjhg-jhg-jh-gjhg-140313052901-phpapp02-thumbnail-4.jpg",
-      "projectDescription": "A simple ToDo application tutorial for Webcodesk",
-      "lang": "javascript",
-      "keywords": [
-        "tutorial",
-        "starter",
-        "Material UI"
-      ],
-      "author": {
-        "fullName": "Alex Pustovalov",
-        "profileURL": ""
-      },
-      "projectRepository": "webcodesk/wcd-todo-tutorial",
-      "projectDemoURL": "",
-      "license": "MIT",
-      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip"
-
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-todo/archive/v1.0.0.zip"
     }
   ]
 }
