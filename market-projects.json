@@ -22,6 +22,28 @@
       "projectScreenshotsUrls": [
         ""
       ]
+    },
+    {
+      "projectName": "Beginner tutorial (v1.0.3)",
+      "projectThumbnailScreenshotUrl": "https://cdn.slidesharecdn.com/ss_thumbnails/jghjkh-jghjk-jkghjh-gjhgjh-g-jh-gj-hg-jhg-jhgjhg-jhg-jhg-jhg-jhg-jhg-jhg-jh-gjhg-jh-gjhg-jhg-jh-gjhg-140313052901-phpapp02-thumbnail-4.jpg",
+      "projectDescription": "A simple ToDo application tutorial for Webcodesk",
+      "lang": "javascript",
+      "keywords": [
+        "tutorial",
+        "starter",
+        "Material UI"
+      ],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectRepository": "webcodesk/wcd-todo-tutorial",
+      "projectDemoURL": "",
+      "license": "MIT",
+      "projectZipDownloadUrl": "https://github.com/webcodesk/wcd-empty-pwa/archive/v1.0.1.zip",
+      "projectScreenshotsUrls": [
+        ""
+      ]
     }
   ]
 }
