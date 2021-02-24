@@ -16,13 +16,3 @@ This repository stores two files for the Webcodesk marketplace.
 ## Contribution
 
 If you want your project to be in one of the lists, make a new PR for any of the files.
-
-## Extra resources
-
-* [Spectrum chat](https://spectrum.chat/webcodesk)
-* [Twitter account](https://twitter.com/webcodesk)
-* [Facebook group](https://www.facebook.com/groups/webcodesk)
-* [Youtube channel](https://www.youtube.com/channel/UCmesT7ti6DXOjxDwx2qzKgQ)
-
- 
-
