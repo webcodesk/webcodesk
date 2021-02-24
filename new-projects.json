@@ -19,6 +19,23 @@
       "license": "MIT"
     },
     {
+      "projectName": "Starter project with TypeScript (v1.0.1)",
+      "projectDescription": "Use this project as a starting point of the Web application with TypeScript.",
+      "lang": "typescript",
+      "keywords": [
+        "empty",
+        "starter"
+      ],
+      "author": {
+        "fullName": "Alex Pustovalov",
+        "profileURL": ""
+      },
+      "projectRepository": "webcodesk/wcd-empty-pwa-ts",
+      "projectDemoURL": "",
+      "projectReleaseDownloadURL": "https://github.com/webcodesk/wcd-empty-pwa-ts/archive/v1.0.1.tar.gz",
+      "license": "MIT"
+    },
+    {
       "projectName": "Beginner tutorial (v1.0.3)",
       "projectDescription": "A simple ToDo application tutorial for Webcodesk",
       "lang": "javascript",
